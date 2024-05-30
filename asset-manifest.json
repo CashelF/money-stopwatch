@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/money-stopwatch/static/css/main.ee54f678.css",
+    "main.js": "/money-stopwatch/static/js/main.af127cda.js",
+    "static/js/453.abd65578.chunk.js": "/money-stopwatch/static/js/453.abd65578.chunk.js",
+    "index.html": "/money-stopwatch/index.html",
+    "main.ee54f678.css.map": "/money-stopwatch/static/css/main.ee54f678.css.map",
+    "main.af127cda.js.map": "/money-stopwatch/static/js/main.af127cda.js.map",
+    "453.abd65578.chunk.js.map": "/money-stopwatch/static/js/453.abd65578.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee54f678.css",
+    "static/js/main.af127cda.js"
+  ]
+}

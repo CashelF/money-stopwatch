@@ -1,0 +1,16 @@
+{
+  "name": "Money Stopwatch",
+  "short_name": "Stopwatch",
+  "description": "A real-time salary tracking stopwatch application.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f2027",
+  "theme_color": "#203a43",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
